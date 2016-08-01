@@ -2,6 +2,8 @@
 
 # this is a small change
 
+# will this work?
+
 import maya.cmds as cmds
 import maya.mel as mel
 from functools import partial
