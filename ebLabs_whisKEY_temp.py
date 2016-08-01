@@ -4,10 +4,13 @@
 
 # will this work?
 
+<<<<<<< HEAD
 # will this be on the branch or master?
 
 # this will be the master for sure
 
+=======
+>>>>>>> parent of 7906969... Merge pull request #2 from keithosborn/temp
 import maya.cmds as cmds
 import maya.mel as mel
 from functools import partial
