@@ -6,6 +6,8 @@
 
 # will this be on the branch or master?
 
+# this will be the master for sure
+
 import maya.cmds as cmds
 import maya.mel as mel
 from functools import partial
